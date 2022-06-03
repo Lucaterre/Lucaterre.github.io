@@ -1,2 +1,2 @@
-# Lucaterre.github.io
-My Website
+# lucaterre.github.io
+my website
